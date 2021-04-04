@@ -15,8 +15,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="I Am Rich" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HGu-TQ-Ai0">
-                                <rect key="frame" x="120.5" y="224" width="173" height="78"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="not Rich" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HGu-TQ-Ai0">
+                                <rect key="frame" x="132.5" y="272.5" width="149" height="78"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="78" id="yyy-fO-ece"/>
                                 </constraints>
@@ -25,11 +25,11 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="diamond" translatesAutoresizingMaskIntoConstraints="NO" id="Jnt-43-o05">
-                                <rect key="frame" x="35.5" y="322.5" width="343" height="251"/>
+                                <rect key="frame" x="122" y="371" width="170.5" height="154"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" red="0.19215686274509802" green="0.19607843137254902" blue="0.43529411764705883" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.39154325887539104" green="0.5027715708517082" blue="0.57066376676264496" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="Jnt-43-o05" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="NjB-uE-0PY"/>
                             <constraint firstItem="HGu-TQ-Ai0" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="aYk-cu-uBb"/>
@@ -44,6 +44,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="diamond" width="343" height="251"/>
+        <image name="diamond" width="170.5" height="154"/>
     </resources>
 </document>
