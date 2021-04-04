@@ -1,4 +1,4 @@
-# I-Am-Rich---iOS
+# I Am Rich (iOS) 💎
 I Am Rich Remastered as of 2021 App
 
 Build with Swift / Storyboard as a part of swift learning course
